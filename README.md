@@ -14,10 +14,13 @@ Al iniciar se muestra la interfaz de la siguiente imagen, para empezar el juego 
 ![image_1](./images/img1.png)
 
 Las letras se irán bloqueando según se usan y el dibujo se irá completando hasta su forma final:
+
 ![image_2](./images/img2.png)
 
 Si la palabra fue adivinada el mensaje dirá que ha ganadono, en caso contrario, se muestra la solución en un mensaje de alerta:
+
 ![image_3](./images/img3.png)
 
 La opción "Respuesta" bloqueará el teclado y mostrará la respuesta, dejando unicamente opción de salir o jugar con una palabra nueva:
+
 ![image_4](./images/img4.png)
